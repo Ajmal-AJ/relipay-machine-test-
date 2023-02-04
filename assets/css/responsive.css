@@ -1,0 +1,645 @@
+@media screen and (min-width:1400px) {
+    #bannerSection .bannerform-bx {
+        /* position: absolute;
+        top: 203px; */
+        position: absolute;
+        top: 111px;
+    }
+
+    #headerSection .headernavbar {
+        position: absolute;
+        bottom: -50px;
+        z-index: 9;
+        left: 145px;
+    }
+
+    #headerSection .headernavbar .nav-item {
+        border: 2px solid #fff;
+        border-top: none;
+        margin: 0 1px;
+        opacity: 0.5;
+        border-radius: 0px 0px 5px 5px;
+        padding: 0px 26px;
+        background: transparent;
+        color: #000;
+    }
+
+    #exploreSection {
+        margin-top: 8rem;
+    }
+
+    #bannerSection .bannerform-bx .formpart .form-para {
+        color: #000;
+        font-size: 13px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        max-width: 280px;
+    }
+
+    #exploreSection .border-right {
+        border-right: 1px solid #CDCDCD !important;
+        padding: 11px 0;
+    }
+}
+
+@media screen and (min-width:1200px) and (max-width:1399px) {
+
+    #bannerSection {
+        background: linear-gradient(358deg, #0077AC 0%, #194C90 100%) 0% 0% no-repeat padding-box;
+        height: 55vh;
+    }
+
+    #bannerSection .bannerform-bx {
+        position: absolute;
+        margin: auto;
+        top: 115px;
+
+    }
+}
+
+@media screen and (max-width:1199px) {
+    #bannerSection .bannerform-bx {
+        position: absolute;
+        top: 186px;
+
+    }
+
+    #exploreSection {
+        margin-top: 16rem;
+    }
+
+    #exploreSection .border-right {
+        border-right: 1px solid #CDCDCD !important;
+        padding: 10px 8px;
+    }
+
+    #offerSection .vw-ofrlink {
+        color: #0077AC;
+        font-weight: 600;
+        padding-right: 16px;
+    }
+
+    #blogSection .owl-nav {
+        position: absolute;
+        top: -56px;
+        right: 0px;
+        background: rgba(0, 119, 172, 0.0901960784);
+        padding: 0 23px;
+        border-radius: 21px;
+        border: 1px solid #0077AC;
+    }
+
+    #bannerSection .label-2 {
+        font-size: 13px;
+        font-weight: 500;
+        color: #000;
+    }
+
+    #bannerSection .bannerform-bx .formpart .radiobox-title {
+        color: #707070;
+        font-size: 12px;
+    }
+
+    .checkincol {
+        width: 100%;
+    }
+
+    #CheckBoxes .check-labels {
+        font-size: 12px;
+        font-weight: 500;
+        color: #000;
+        padding-left: 37px;
+        padding-top: 13px;
+        background: #F1F1F1;
+        width: 123px;
+        height: 70px;
+        margin: -1px;
+    }
+}
+
+
+@media screen and (max-width:991px) {
+    #headerSection .user-dropdown:hover .user-dropbox {
+        display: block;
+        right: 0 !important;
+        min-width: 27rem !important;
+        left: -377px;
+        top: 76px;
+    }
+
+    #exploreSection .expr-para {
+        font-size: 13px;
+        color: #707070;
+        margin-bottom: 0;
+    }
+
+    #headerSection .headernavbar {
+        position: relative;
+        bottom: 0;
+        z-index: 9;
+        left: 0;
+    }
+
+    #headerSection .headernavbar .navicon {
+        display: none !important;
+        transition: 0.3s;
+    }
+
+    #headerSection .headernavbar {
+        position: relative;
+        bottom: 0;
+        z-index: 9;
+        left: 0;
+    }
+
+    .bg-white {
+        background: #101F33 !important;
+    }
+
+    #headerSection .headernavbar .nav-item {
+        border: 2px solid #fff;
+        border-top: 2px solid #fff;
+        margin: 5px 1px;
+        opacity: 0.5;
+        border-radius: 5px 5px 5px 5px;
+        padding: 0px 5px;
+        background: transparent;
+        color: #000;
+
+    }
+
+    #headerSection .user-dropbox {
+        box-shadow: 0px 0px 20px rgb(0 0 0 / 5%);
+        border-radius: 15px;
+        border: none;
+        display: none;
+        right: 0;
+        min-width: 27rem;
+        position: absolute;
+        z-index: 29;
+        background: #fff;
+    }
+
+    #headerSection .header-dropdown-btn {
+        width: 100%;
+    }
+
+    #headerSection .dropdown-box {
+        left: 0px;
+        display: none;
+        border-radius: 0 0 6px;
+        top: 0px;
+        box-shadow: none;
+        position: relative !important;
+    }
+
+    #headerSection .right-bar .phone-number {
+        color: #fff;
+        font-size: 15px;
+        font-weight: 500;
+    }
+
+    #headerSection .fa-chevron-down {
+        color: #fff;
+
+    }
+
+    #bannerSection {
+        background: transparent linear-gradient(358deg, #0077AC 0%, #194C90 100%) 0% 0% no-repeat padding-box;
+        height: 100%;
+        /* height: 94vh; */
+    }
+
+    #bannerSection .banner-pic {
+        width: 100%;
+        margin: auto;
+        position: relative;
+        top: 23px;
+    }
+
+    #bannerSection .bannerform-bx {
+        position: relative;
+        top: -30px;
+    }
+
+    #bannerSection .cstmpad-se {
+        padding-right: 1rem;
+    }
+
+    #CheckBoxes {
+        width: 100%;
+    }
+
+    #CheckBoxes .check-labels {
+        font-size: 12px;
+        font-weight: 500;
+        color: #000;
+        padding-left: 37px;
+        padding-top: 13px;
+        background: #F1F1F1;
+        width: 100%;
+        height: 57px;
+    }
+
+    #CheckBoxes .form-check {
+        padding-left: 0;
+        width: 33.3%;
+        float: left;
+        margin: 0;
+    }
+
+    #CheckBoxes .brdr-rdus-left {
+        border-radius: 15px 0 0 0;
+    }
+
+    #CheckBoxes .brdr-rdus-right {
+        border-radius: 0 0 15px 0;
+    }
+
+    .border-rigttop {
+
+        border-radius: 0 15px 0 0;
+    }
+
+    .border-bottomleft {
+        border-radius: 0 0 0 15px;
+    }
+
+    #bannerSection .bannerform-bx .formpart .radiobox-title {
+        color: #707070;
+        font-size: 15px;
+    }
+
+    #bannerSection .bannerform-bx .formpart .arrowbox {
+        background-color: #ffffff;
+        width: 50px;
+        height: 50px;
+        border-radius: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 10px;
+        bottom: 40px;
+        right: -24px;
+        z-index: 9;
+        z-index: 9;
+        border-right: 1px solid #CDCDCD;
+        border-left: 1px solid #CDCDCD;
+    }
+
+    #exploreSection {
+        margin-top: 0rem;
+    }
+
+    #exploreSection .border-right {
+        border-bottom: 1px solid #CDCDCD !important;
+        border-right: none !important;
+        padding: 11px;
+    }
+
+    #exploreSection .brbtm-none {
+        border-bottom: none !important;
+        border-right: 1px solid #cdcdcd !important;
+        padding: 13px;
+    }
+
+    #exploreSection .brdr-right-only {
+        border-right: 1px solid #CDCDCD !important;
+    }
+
+    #exploreSection .explr-bx {
+        box-shadow: 0px 0px 20px rgb(0 0 0 / 10%);
+        border-radius: 10px;
+        background: #fff;
+        width: 99%;
+        margin: auto;
+    }
+
+    #offerSection .offer-card .promo-tt {
+        color: #0077AC;
+        font-weight: 600;
+        font-size: 13px;
+        padding-right: 8px;
+        margin: auto;
+    }
+
+    #offerSection .couponcde-input {
+        background-color: #fff;
+        border: 1px dashed #CDCDCD;
+        font-size: 13px;
+        font-weight: 500;
+        padding-left: 4px;
+        padding-right: 0px;
+    }
+
+    .margnsm {
+        margin: 30px 0 8px 0;
+    }
+
+    #footer .footer-nav .ftr-link-item {
+        padding: 8px 0;
+        font-size: 14px;
+        width: 50%;
+        float: left;
+    }
+}
+
+
+@media screen and (max-width:767px) {
+
+
+
+    #headerSection .headernavbar {
+        position: relative;
+        bottom: 0;
+        z-index: 9;
+        left: 0;
+    }
+
+    .bg-white {
+        background: #101F33 !important;
+    }
+
+    #headerSection .headernavbar .navicon {
+        display: none !important;
+        transition: 0.3s;
+    }
+
+    #headerSection .header-dropdown-btn {
+        width: 99%;
+    }
+
+    #headerSection .headernavbar .nav-item {
+        border: 2px solid #fff;
+        border-top: 2px solid #fff;
+        margin: 5px 1px;
+        opacity: 0.5;
+        border-radius: 5px 5px 5px 5px;
+        padding: 0px 8px;
+        background: transparent;
+        color: #000;
+    }
+
+    .mt-24 {
+        margin-top: 5px !important;
+    }
+
+    #headerSection .dropdown-box {
+        position: relative !important;
+        left: 0px;
+        display: none;
+        border-radius: 0 0 6px;
+        top: 0;
+        box-shadow: none;
+        width: 100%;
+    }
+
+    #headerSection .right-bar .phone-number {
+        color: #fff;
+        font-size: 15px;
+        font-weight: 500;
+    }
+
+
+    /* --banner started  */
+    #bannerSection {
+        background: transparent linear-gradient(358deg, #0077AC 0%, #194C90 100%) 0% 0% no-repeat padding-box;
+        height: 100%;
+    }
+
+    #bannerSection .banner-pic {
+        width: 100%;
+        margin: auto;
+        position: relative;
+        top: 11px;
+    }
+
+    #bannerSection .bannerform-bx {
+        position: relative;
+        top: -12px;
+        left: 0;
+        margin: auto;
+    }
+
+    #bannerSection .bannerform-bx .baner-tab-nav-box {
+        position: relative;
+        left: 0;
+        z-index: 1;
+    }
+
+    #bannerSection .bannerform-bx .formpart .tripform {
+        padding: 16px 0 48px 0;
+    }
+
+    #bannerSection .bannerform-bx .formpart .custom-form-select {
+        border: none;
+        background-image: none;
+        padding-left: 0;
+        font-weight: 600;
+        font-size: 22px;
+        color: #000;
+        padding-bottom: 0;
+    }
+
+    #bannerSection .bannerform-bx .formpart .arrowbox {
+        background-color: #ffffff;
+        width: 42px;
+        height: 42px;
+        border-radius: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 10px;
+        right: 45%;
+        z-index: 9;
+        border-right: none;
+        border-left: none;
+        border-bottom: 1px solid #CDCDCD;
+        border-top: 1px solid #CDCDCD;
+        bottom: -37px !important;
+        transform: rotate(90deg);
+    }
+
+    #bannerSection .bannerform-bx .formpart .form-para {
+        color: #000;
+        font-size: 13px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        max-width: 242px;
+    }
+
+    #bannerSection .cstmpad-se {
+        padding-right: calc(var(--bs-gutter-x) * .5);
+    }
+
+    #CheckBoxes .check-labels {
+        font-size: 12px;
+        font-weight: 500;
+        color: #000;
+        padding-left: 26px;
+        padding-top: 12px;
+        background: #F1F1F1;
+        width: 100%;
+        height: 100%;
+
+        min-height: 57px;
+    }
+
+    #CheckBoxes .brdr-rdus-left {
+        border-radius: 0;
+    }
+
+    #CheckBoxes .brdr-rdus-right {
+        border-radius: 0;
+    }
+
+    #CheckBoxes {
+        width: 100%;
+    }
+
+    #CheckBoxes .form-check {
+        padding-left: 0;
+        width: 50%;
+        float: left;
+        margin: auto;
+    }
+
+    #CheckBoxes .check {
+        position: absolute;
+        left: 29px;
+        width: 15px;
+        height: 15px;
+    }
+
+    #bannerSection .bannerform-bx .formpart .checkbtn {
+        border: 2px solid #0077AC;
+        border-radius: 10px;
+        background: rgba(0, 119, 172, 0.0901960784);
+        color: #000;
+        font-size: 14px;
+        font-weight: 500;
+        padding: 9px;
+    }
+
+    #bannerSection .bannerform-bx .formpart .searchbtn {
+        background: linear-gradient(270deg, #33AB51 0%, #2DCA54 100%) 0% 0% no-repeat padding-box;
+        color: #fff;
+        padding: 16px 57px;
+        border-radius: 50px;
+        font-weight: 500;
+        font-size: 16px;
+        top: 28px;
+        text-transform: uppercase;
+    }
+
+    #exploreSection {
+        margin-top: 0rem;
+    }
+
+    /* offersection */
+    /* .border-bottom {
+        border-bottom: none !important;
+    } */
+    /* ------------offersection  */
+
+
+    #offerSection .nav-link {
+        color: #000;
+        font-weight: 600;
+        margin-bottom: 7px;
+        border: none;
+        font-size: 14px;
+        padding: 13px 9px;
+
+    }
+
+    #offerSection .nav-link.active {
+        color: #33AB51 !important;
+        font-weight: 600;
+        background: none;
+        border: none;
+        font-size: 14px;
+        padding: 13px;
+
+    }
+
+    .margnsm {
+        margin: 30px 0 8px 0;
+    }
+
+    #offerSection .pad-1rm {
+        padding: 1rem;
+    }
+
+    #footer .copyright-para {
+        color: #fff;
+        opacity: 0.5;
+        font-size: 12px;
+    }
+
+    .pb-sm-11 {
+        padding-bottom: 11px;
+    }
+
+    #footer .top-icnbox {
+        width: 50px;
+        height: 50px;
+        background: linear-gradient(358deg, #0077AC 0%, #194C90 100%) 0% 0% no-repeat padding-box;
+        box-shadow: 0px 0px 20px rgb(0 0 0 / 16%);
+        position: absolute;
+        border-radius: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: #fff;
+        font-size: 23px;
+        left: 40%;
+        top: -23px;
+    }
+
+    #offerSection .spofer {
+        background-color: #FF0000;
+        color: #fff;
+        border-radius: 50px;
+        position: absolute;
+        bottom: -4px;
+        left: 30%;
+        padding: 10px 10px;
+        font-weight: 600;
+        width: 33%;
+    }
+
+    .border-rigttop {
+        border-radius: 0;
+    }
+
+    .border-bottomleft {
+        border-radius: 0;
+    }
+
+    #CheckBoxes .brdr-rdus-left {
+        border-radius: 15px 0 0 0;
+    }
+
+    .border-rigttop-sms {
+        border-radius: 0 15px 0 0 !important;
+    }
+
+    #CheckBoxes .brdr-rdus-right {
+        border-radius: 0 0 15px 0;
+    }
+
+    .border-bottomleft-sm {
+        border-radius: 0 0 0 15px;
+    }
+
+    #headerSection .user-dropdown:hover .user-dropbox {
+        display: block;
+        right: 0 !important;
+        min-width: 22rem !important;
+        left: -227px;
+        top: 76px;
+    }
+}
